@@ -35,7 +35,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 	
-	nameField.text = @"Testing";
+	nameField.text = @"Lets try that again";
 }
 
 
